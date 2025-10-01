@@ -1,4 +1,4 @@
-
+# Read the full comprehensive article here https://hashnode.com/draft/68dcd3ad2b9f6d561ddb60ed
 # 🚀 Building an End-to-End AWS Application with Amplify, Lambda, API Gateway & DynamoDB
 
 Building this hands-on project will enhance your technical know-how on how to combine some of the AWS services such as **Amplify**, **Lambda Function**, **IAM**, **DynamoDB**, and the **API Gateway** services to build and deploy an end-to-end application.
@@ -22,7 +22,6 @@ In simple terms, **AWS Amplify** is a comprehensive tool that helps developers b
 
 We now have a **live webpage**. Next, let’s work on doing some math using **Lambda**.
 
-![AWS Architecture Diagram](./1.png)
 
 
 ---
