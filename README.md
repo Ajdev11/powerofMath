@@ -22,7 +22,7 @@ In simple terms, **AWS Amplify** is a comprehensive tool that helps developers b
 
 We now have a **live webpage**. Next, let’s work on doing some math using **Lambda**.
 
-![AWS Architecture Diagram](./images/1.png)
+![AWS Architecture Diagram](./1.png)
 
 
 ---
