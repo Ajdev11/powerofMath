@@ -201,8 +201,3 @@ Create a simple **frontend UI** and connect it to your API Gateway URL:
 * Test the app → enter numbers → check DynamoDB for results.
 * Don’t forget to **delete AWS resources** after testing to avoid costs.
 
-```
-
----
-
-Would you like me to also **add badges (AWS, Python, GitHub Actions, etc.)** at the top so it looks like a polished README for GitHub?
